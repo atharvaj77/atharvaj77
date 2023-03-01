@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Text-to-Face stackGAN<br>🌱 I’m currently learning Solididy, Blockchain<br>💬 Ask me about TensorFlow, Keras, Flutter<br>📫 How to reach me atharvaj77@gmail.com
+🔭 I’m currently working on Text-to-Face stackGAN<br>🌱 I’m currently learning Solidity, Blockchain<br>💬 Ask me about TensorFlow, Keras, Flutter<br>📫 How to reach me atharvaj77@gmail.com
 
 
 ## 🌐 Socials:
